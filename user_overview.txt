@@ -1,0 +1,27 @@
+Total Number of Registered Users: 4
+Total number of tasks: 7
+
+Total number of tasks for admin: 1
+Percentage of Total tasks for admin: 14%
+Percentage of users tasks complete: 100%
+Percentage of users tasks incomplete: 0%
+Percentage of users tasks overdue: 0%
+
+Total number of tasks for matt: 5
+Percentage of Total tasks for matt: 71%
+Percentage of users tasks complete: 0%
+Percentage of users tasks incomplete: 100%
+Percentage of users tasks overdue: 80%
+
+Total number of tasks for ali: 1
+Percentage of Total tasks for ali: 14%
+Percentage of users tasks complete: 0%
+Percentage of users tasks incomplete: 100%
+Percentage of users tasks overdue: 100%
+
+Total number of tasks for u: 0
+Percentage of Total tasks for u: 0%
+Percentage of users tasks complete: 0%
+Percentage of users tasks incomplete: 0%
+Percentage of users tasks overdue: 0%
+
