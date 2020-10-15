@@ -1,5 +1,4 @@
-# L1T25 Capstone
-## Task Manger System
+# Task Manger System
 This is a simple task manager system that uses files to store information on tasks, which can be assigned to different users.
 
 ## Usage
